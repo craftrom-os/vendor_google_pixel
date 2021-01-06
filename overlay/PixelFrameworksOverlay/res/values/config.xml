@@ -63,6 +63,9 @@
     -->
     <string name="config_defaultAppPredictionService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService</string>
 
+    <!-- Flag indicating whether we should enable the adaptive sleep.-->
+    <bool name="config_adaptive_sleep_available">true</bool>
+
     <!-- Component name that should be granted Notification Assistant access -->
     <string name="config_defaultAssistantAccessComponent" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.common.notification.service.AiAiNotificationAssistantService</string>
 

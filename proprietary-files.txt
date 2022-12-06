@@ -1,10 +1,6 @@
 -product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
 -product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
 product/etc/permissions/privapp-permissions-google-p.xml
-product/etc/res/images/charger/battery_fail.png
-product/etc/res/images/charger/battery_scale.png
-product/etc/res/images/charger/main_font.png
-product/etc/res/values/charger/animation.txt
 product/etc/sysconfig/google.xml
 product/etc/sysconfig/google_build.xml
 product/etc/sysconfig/nexus.xml

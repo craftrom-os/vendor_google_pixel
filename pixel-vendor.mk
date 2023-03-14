@@ -95,9 +95,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/pixel/proprietary/system_ext/etc/permissions/privapp-permissions-google-se.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-google-se.xml
 
 PRODUCT_PACKAGES += \
-    AndroidAutoStubPrebuilt \
     MarkupGoogle \
     SoundPickerPrebuilt \
+    AndroidAutoStubPrebuilt \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2021 \
     SettingsIntelligenceGooglePrebuilt \

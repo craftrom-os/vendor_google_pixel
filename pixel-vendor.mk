@@ -99,7 +99,7 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     AndroidAutoStubPrebuilt \
     DeviceIntelligenceNetworkPrebuilt \
-    DevicePersonalizationPrebuiltPixel2021 \
+    DevicePersonalizationPrebuiltPixel2022 \
     SettingsIntelligenceGooglePrebuilt \
     TurboPrebuilt \
     Flipendo \

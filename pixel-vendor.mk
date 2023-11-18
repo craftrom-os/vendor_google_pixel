@@ -98,7 +98,6 @@ PRODUCT_PACKAGES += \
     AndroidAutoStubPrebuilt \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
-    SettingsIntelligenceGooglePrebuilt \
     TurboPrebuilt \
     Flipendo \
     TurboAdapter

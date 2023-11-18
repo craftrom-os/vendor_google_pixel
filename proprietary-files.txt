@@ -82,7 +82,6 @@ product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk;PRESIGNED
 -product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk;PRESIGNED
 -product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED
--product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;OVERRIDES=SettingsIntelligence;PRESIGNED
 -product/priv-app/TurboPrebuilt/TurboPrebuilt.apk;PRESIGNED
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 -system_ext/priv-app/TurboAdapter/TurboAdapter.apk|b4843adb8a86fd0a0bc7fd4b47c77dc1d715947d

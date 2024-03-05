@@ -127,12 +127,14 @@
 
     <!-- Whitelist of packages that eligible for rollback -->
     <rollback-whitelisted-app package="com.android.vending" />
+    <rollback-whitelisted-app package="com.google.android.gms" />
 
     <!-- Specify the installer eligiable for updating the given GMS package. -->
     <update-ownership package="com.google.android.gms" installer="com.android.vending" />
 
     <!-- Denylist of packages that are not eligible for automatic rollback -->
     <automatic-rollback-denylisted-app package="com.android.vending" />
+    <automatic-rollback-denylisted-app package="com.google.android.gms" />
 
     <!-- Allow device lock controller app to schedule jobs and alarms when app in background,
         otherwise, it may not be able to enforce provision for managed devices. -->

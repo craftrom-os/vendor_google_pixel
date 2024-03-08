@@ -12,6 +12,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/MarkupGoogle/MarkupGoogle.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -23,6 +24,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -34,6 +36,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -46,6 +49,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -58,6 +62,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -70,6 +75,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/TurboPrebuilt/TurboPrebuilt.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -99,4 +105,3 @@ android_app_import {
 	privileged: true,
 	system_ext_specific: true,
 }
-

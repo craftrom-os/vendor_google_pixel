@@ -11,8 +11,8 @@ android_app_import {
 	name: "MarkupGoogle",
 	owner: "google",
 	apk: "proprietary/product/app/MarkupGoogle/MarkupGoogle.apk",
-	presigned: true,
 	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -23,8 +23,8 @@ android_app_import {
 	name: "SoundPickerPrebuilt",
 	owner: "google",
 	apk: "proprietary/product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk",
-	presigned: true,
 	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -35,8 +35,8 @@ android_app_import {
 	name: "AndroidAutoStubPrebuilt",
 	owner: "google",
 	apk: "proprietary/product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk",
-	presigned: true,
 	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -48,8 +48,8 @@ android_app_import {
 	name: "DeviceIntelligenceNetworkPrebuilt",
 	owner: "google",
 	apk: "proprietary/product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
-	presigned: true,
 	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -61,8 +61,8 @@ android_app_import {
 	name: "DevicePersonalizationPrebuiltPixel2020",
 	owner: "google",
 	apk: "proprietary/product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk",
-	presigned: true,
 	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -74,8 +74,8 @@ android_app_import {
 	name: "TurboPrebuilt",
 	owner: "google",
 	apk: "proprietary/product/priv-app/TurboPrebuilt/TurboPrebuilt.apk",
-	presigned: true,
 	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -105,3 +105,4 @@ android_app_import {
 	privileged: true,
 	system_ext_specific: true,
 }
+

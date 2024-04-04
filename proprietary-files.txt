@@ -95,3 +95,12 @@ product/media/audio/ui/Unlock.ogg|942f421c14f2b024fa648ef85cd5dbf4d53550f7
 
 # Dialer Call Recording
 product/etc/permissions/com.google.android.apps.dialer.call_recording_audio.features.xml|42358ffb4f5a3bbdb7175fa9a0b37d3a350f1468
+
+# Clock plugins
+system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
+system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+system_ext/priv-app/SystemUIClocks-Flex/SystemUIClocks-Flex.apk
+system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
+system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
+system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
+system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk

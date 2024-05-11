@@ -96,8 +96,6 @@ PRODUCT_PACKAGES += \
     MarkupGoogle \
     SoundPickerPrebuilt \
     AndroidAutoStubPrebuilt \
-    DeviceIntelligenceNetworkPrebuilt \
-    DevicePersonalizationPrebuiltPixel2020 \
     TurboPrebuilt \
     Flipendo \
     SystemUIClocks-BigNum \
@@ -106,5 +104,4 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Growth \
     SystemUIClocks-Inflate \
     SystemUIClocks-Metro \
-    SystemUIClocks-NumOverlap \
-    TurboAdapter
+    SystemUIClocks-NumOverlap
